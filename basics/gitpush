@@ -1,0 +1,6 @@
+#!/bin/bash
+read $file
+git add $file
+read $commitfile
+git commit -m $commitfile
+git push
