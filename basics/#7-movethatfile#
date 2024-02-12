@@ -1,0 +1,3 @@
+#!/bin/bash
+mv Bcase 
+etty /tmp/my-first-directory
