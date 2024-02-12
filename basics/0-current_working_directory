@@ -1,1 +1,3 @@
-/home/joge/holbertonschool-shell/basics
+#!/bin/bash
+pwd
+
